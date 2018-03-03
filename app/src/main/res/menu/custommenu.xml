@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sabuj"
+        android:title="sabuj"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/khan"
+        android:title="khan"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/sagor"
+        android:title="sagor"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Zoyad"
+        android:title="Zoyad"
+        app:showAsAction="never"
+        />
+
+</menu>
